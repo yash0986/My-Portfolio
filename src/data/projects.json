@@ -1,0 +1,38 @@
+[
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/ecommerce-icon.png",
+    "description": "A MERN stack project dedicated to fashionable products sale for customers",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://ecommerce-website-eight-sage.vercel.app/",
+    "source": "https://github.com/yash0986/ecommerce-website"
+  },
+  {
+    "title": "StarHotel",
+    "imageSrc": "projects/hotel.png",
+    "description": " Discover, review, and share special features of hotels to help fellow travelers make informed choices.",
+    "skills": [
+      "React",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://starhotel.onrender.com/",
+    "source": "https://github.com/yash0986/Star-Hotel"
+  },
+  {
+    "title": "News App",
+    "imageSrc": "projects/news.png",
+    "description": "A news app to display current global news and events, informs users about the latest events",
+    "skills": [
+      "EJS",
+      "Express",
+      "Node"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/yash0986/newsApp"
+  }
+]

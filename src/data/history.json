@@ -1,0 +1,38 @@
+[
+  {
+    "role": "Codechef & Codeforces",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      " Rank 161 in Starters 49 ",
+      " Rank 236 in Starters 41 ",
+      " Rank 784 in Codeforces #835.",
+      "Specialist on Codeforces",
+      "4 Star in Codechef"
+    ],
+    "imageSrc": "history/codechef.png"
+  },
+  {
+    "role": "Problem Solving",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Solved More than 1500 Problems",
+      "Rank 3 in Code Mania by NIT Jamshedpur",
+      "Rank 3 in MARCH CODEKARMA, by NIT Jamshedpur"
+    ],
+    "imageSrc": "history/problem.png"
+  },
+  {
+    "role": "Hackathons",
+    "organisation": "",
+    "startDate": "",
+    "endDate": "",
+    "experiences": [
+      "Regionalist in Google Developer Student Clubs solution challenge"
+    ],
+    "imageSrc": "history/hackathon.png"
+  }
+]
